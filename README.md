@@ -210,3 +210,11 @@ python main.py --dataset esol --pooling_strategy mean
 - Paper-exact hyperparameters
 
 This implementation provides a complete research platform for exploring GNN-based molecular property prediction with chemistry-informed design principles.
+
+---
+
+## Credits
+
+This code was written by Tetiana Lutchyn and refactored by Sebastian Iversen. The models were designed by Tetiana Lutchyn and Benjamin Ricaud. Training and experiments of the model(s) were performed by Tetiana Lutchyn. We thank Claude 3.7 for its help cleaning and refactoring the code.
+
+The results will be published soon and a link to the paper will be added when available.
